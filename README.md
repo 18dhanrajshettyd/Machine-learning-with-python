@@ -142,8 +142,3 @@ If you type an expression in interactive mode, the interpreter evaluates it and 
 >>> 1 + 1
 2
 But in a script, an expression all by itself doesn’t do anything! This is a common source of confusion for beginners.
-
-Exercise 2   Type the following statements in the Python interpreter to see what they do:
-5
-x = 5
-x + 1
